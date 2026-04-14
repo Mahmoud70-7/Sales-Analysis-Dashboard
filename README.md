@@ -83,10 +83,6 @@ This project transforms raw sales data into actionable insights that support dat
   <img src="https://github.com/user-attachments/assets/05f89dbf-5fa0-4e7e-aa55-d9183b899b08" width="800"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6cf8d8e9-8ccd-4096-b578-9fea207bcc4a" width="800"/>
-</p>
-
 ---
 
 ## 🚀 How to Use
