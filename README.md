@@ -1,10 +1,12 @@
-<img width="1180" height="652" alt="image" src="https://github.com/user-attachments/assets/05f89dbf-5fa0-4e7e-aa55-d9183b899b08" />![photo_2026-04-13_05-55-35](https://github.com/user-attachments/assets/6cf8d8e9-8ccd-4096-b578-9fea207bcc4a)# Sales-Analysis-Dashboard
-Power BI dashboard analyzing sales, profit, and shipping cost with business insights and KPIs
 # 📊 Sales & Profit Analysis Dashboard
+
+🚀 Power BI Project | Data Analysis | Business Insights
+
+---
 
 ## 👤 Author
 
-**[ Mahmoud Khamis ]**
+**Mahmoud Khamis**
 Aspiring Data Analyst | Power BI Enthusiast
 
 ---
@@ -13,7 +15,7 @@ Aspiring Data Analyst | Power BI Enthusiast
 
 An interactive Power BI dashboard built to analyze sales performance, profitability, and operational efficiency.
 
-This project focuses on transforming raw data into meaningful insights that help businesses make data-driven decisions.
+This project transforms raw sales data into actionable insights that support data-driven decision-making.
 
 ---
 
@@ -50,20 +52,20 @@ This project focuses on transforming raw data into meaningful insights that help
 
 ## 🧠 Key Insights
 
-* Technology category is the most profitable.
-* Shipping costs significantly reduce overall profitability.
-* Profit margin is relatively low compared to revenue.
-* Some high-sales products generate low profit.
-* Sales trend increases toward the end of the year.
+* Technology category is the most profitable
+* Shipping costs significantly reduce profitability
+* Profit margin is relatively low compared to revenue
+* Some high-sales products generate low profit
+* Sales trend increases toward the end of the year
 
 ---
 
 ## 💡 Business Recommendations
 
-* Optimize shipping methods to reduce cost.
-* Adjust pricing strategy for low-margin products.
-* Focus marketing on high-profit categories.
-* Improve logistics in high-cost regions.
+* Optimize shipping methods to reduce cost
+* Adjust pricing strategy for low-margin products
+* Focus marketing on high-profit categories
+* Improve logistics in high-cost regions
 
 ---
 
@@ -77,7 +79,13 @@ This project focuses on transforming raw data into meaningful insights that help
 
 ## 📸 Dashboard Preview
 
-![Dashboard]()
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05f89dbf-5fa0-4e7e-aa55-d9183b899b08" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6cf8d8e9-8ccd-4096-b578-9fea207bcc4a" width="800"/>
+</p>
 
 ---
 
@@ -85,7 +93,7 @@ This project focuses on transforming raw data into meaningful insights that help
 
 1. Open the `.pbix` file using Power BI Desktop
 2. Use slicers (Region, Category) for filtering
-3. Explore KPIs and trends
+3. Explore KPIs and insights
 
 ---
 
